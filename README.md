@@ -15,7 +15,12 @@
 改造配布も可能とします  
 ただし元作成者(Yuu528)の名前を入れてください  
   
+<<<<<<< HEAD
 ##動作環境 (テスト済みの環境)  
+=======
+##動作環境  
+####動作テストを行った環境  
+>>>>>>> d6f2b7b3ea28c5cc57f37607b1232824ce4a5933
 * Windows 10 Home x64  
   
 ##Acknowledge  
@@ -24,7 +29,11 @@ nkf32はnkfプロジェクト
 VA007219 様, こうの しんじ 様, 兼頭 武 様, 古川 令 様, 市川 至 様, 森 和彦 様, 成瀬 様  
 により作成されました。  
 nkfプロジェクトの皆さん、ありがとうございました  
+<<<<<<< HEAD
 nkf32は[http://hp.vector.co.jp/authors/VA007219/]( http://hp.vector.co.jp/authors/VA007219/ "nkf32")から入手することができます。  
+=======
+nkf32はhttp://hp.vector.co.jp/authors/VA007219/ から入手することができます。  
+>>>>>>> d6f2b7b3ea28c5cc57f37607b1232824ce4a5933
   
 ##ToDo  
  - [ ] 機能追加  
@@ -32,6 +41,7 @@ nkf32は[http://hp.vector.co.jp/authors/VA007219/]( http://hp.vector.co.jp/autho
  - [ ] インストーラの作成  
  - [x] デバッグ (完全ではありません)  
  - [x] EXE化  
+<<<<<<< HEAD
   
 
 #English  
@@ -62,3 +72,5 @@ nkf32 is get from[http://hp.vector.co.jp/authors/VA007219/]( http://hp.vector.co
  - [ ] Create Installer.  
  - [x] Debug. (incomplete)  
  - [x] Create EXE.  
+=======
+>>>>>>> d6f2b7b3ea28c5cc57f37607b1232824ce4a5933
